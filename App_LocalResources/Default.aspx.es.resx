@@ -162,4 +162,7 @@
   <data name="lbl_nice.text" xml:space="preserve">
     <value>Encantada de conocerte</value>
   </data>
+  <data name="lbl_visit.text" xml:space="preserve">
+    <value>Por favor, visite conmigo en</value>
+  </data>
 </root>

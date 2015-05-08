@@ -162,4 +162,7 @@
   <data name="lbl_nice.text" xml:space="preserve">
     <value>Nice to meet you</value>
   </data>
+  <data name="lbl_visit.text" xml:space="preserve">
+    <value>Please visit me on </value>
+  </data>
 </root>

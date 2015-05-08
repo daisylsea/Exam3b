@@ -162,4 +162,7 @@
   <data name="lbl_nice.text" xml:space="preserve">
     <value>تشرفت بمقابلتك</value>
   </data>
+  <data name="lbl_visit.text" xml:space="preserve">
+    <value>يرجى زيارة لي على</value>
+  </data>
 </root>
